@@ -1,7 +1,5 @@
 ## Привет, меня зовут Адель <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
-### Я начинающий фронтенд разработчик
 
-#### Хочу создавать код, который изменит мир
 
 ### Мой стек:
 
